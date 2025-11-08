@@ -105,12 +105,8 @@ The app will start on:
 
 ## 🎨 **Demo Preview**
 
-🔗 **Live Demo:** [Add Deployment Link Here]  
-🎥 **Project Video:** [Add YouTube/Drive Link Here]  
-📦 **Repository:** [Virtual Assistant GitHub Repo](https://github.com/darshanpadhiyar/Virtual-Assistant)
-
-![Demo Screenshot](https://your-screenshot-link-here)  
-*(Add a screenshot or short GIF of your app in action)*  
+🔗 **Live Demo:** [https://virtual-assistant-frontend-yx09.onrender.com]  
+📦 **Repository:** [https://github.com/darshanpadhiyar/Virtual-Assistant]
 
 ---
 
@@ -130,7 +126,7 @@ Special thanks to the Codveda team for mentorship and support throughout the int
 
 ## 📬 **Connect with Me**
 👨‍💻 **Author:** [Darshan Padhiyar](https://www.linkedin.com/in/darshanpadhiyar/)  
-📧 **Email:** darshanpadhiyar@gmail.com  
+📧 **Email:** darshanpadhiyar38@gmail.com  
 🌐 **GitHub:** [darshanpadhiyar](https://github.com/darshanpadhiyar)  
 
 ---
